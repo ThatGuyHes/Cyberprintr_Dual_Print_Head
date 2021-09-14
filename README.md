@@ -7,3 +7,5 @@ Custom machined parts may not be obtainable for everyone so feel free to mod the
 You will also need to **install your own bowden extruders**. I recommend the Mobius M4 from Voron.
 
 **This design is very experimental! No firmware included!**
+
+Also I'm sorry the CAD is quite messy.
