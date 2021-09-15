@@ -9,3 +9,5 @@ You will also need to **install your own bowden extruders**. I recommend the Mob
 **This design is very experimental! No firmware included!**
 
 Also I'm sorry the CAD is quite messy.
+
+![Capture](https://user-images.githubusercontent.com/45016982/133425073-6c20eaf1-8b96-4f4e-b42d-a8c401c936f8.PNG)
