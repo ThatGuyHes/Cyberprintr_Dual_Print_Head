@@ -1,4 +1,4 @@
-# Cyberprintr_Dual_Print_Head
+# *old* Cyberprintr_Dual_Print_Head
 From video: https://www.youtube.com/watch?v=ENLMZRS0tCQ&lc=UgwN6PbJuuW4S9hfjBd4AaABAg
 
 This system was inspired by Stratasys 3d printers that lift and cool down the nozzle when switching between Tool 0 and Tool 1.
